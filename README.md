@@ -11,9 +11,9 @@
 
 - Good with **Python**
   
-- Know basics of **C**
+- Know basics of **C, Java**
 
-- Studying **Bachelor of Technology** 1st year
+- Studying **Bachelor of Technology** 2nd year
 
 - Have high experience with **Telegram API and Bots**
   
