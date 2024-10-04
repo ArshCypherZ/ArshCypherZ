@@ -7,15 +7,15 @@
   
 - Name **Arsh Javed**
 
-- Lives in **Dehradun, Uttrakhand, India**
+- Lives in **Dehradun, Uttarakhand, India**
 
 - Good with **Python**
   
-- Know basics of **C, Java**
+- Know basics of **C, C++, Java**
 
-- Studying **Bachelor of Technology** 2nd year
+- Studying **Bachelor of Technology in Computer Science and Engineering**
 
-- Have high experience with **Telegram API and Bots**
+- Have high experience with **Telegram API, Bots, Generative AI**
   
 - **Ubuntu** user
 
