@@ -25,13 +25,17 @@
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
-  
+
+- 📓 [***Mind Care***](https://github.com/ArshCypherZ/MindCare) <br/>
+  Mental health website to help people with easy healthcare.
 - 📗 [***Himawari***](https://github.com/ArshCypherZ/HWBot) <br/>
   A multipurpose bot for anything with 69 commands! (Deprecated)
 - 📘 [***Uptime Bot***](https://github.com/ArshCypherZ/BotUptime) <br/>
   Logs whether the bot is working or not.
 - 📓 [***Tic Tac Toe***](https://github.com/ArshCypherZ/tic-tac-toe) <br/>
   Python based tic tac toe game.
+- 📗 [***PolicySense***](https://policysense.vercel.app/) <br/>
+  Policy website to make insurances and policies easy.
 - 📙 ***All my other projects are private and for personal use only.***  
   
 
