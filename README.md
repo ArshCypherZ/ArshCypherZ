@@ -15,7 +15,7 @@
 
 - Studying **Bachelor of Technology in Computer Science and Engineering**
 
-- Have high experience with **Telegram API, Bots, Generative AI**
+- Have high experience with **Telegram API, Bots, Generative AI, Machine Learning, Backend**
   
 - **Ubuntu** user
 
@@ -36,6 +36,8 @@
   Python based tic tac toe game.
 - 📗 [***PolicySense***](https://policysense.vercel.app/) <br/>
   Policy website to make insurances and policies easy.
+- 📘 [***Emilia***](https://github.com/ArshCypherZ/Emilia) <br/>
+  Another multipurpose bot with 300+ commands and better.
 - 📙 ***All my other projects are private and for personal use only.***  
   
 
