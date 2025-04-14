@@ -110,9 +110,14 @@ I'm always open to collaboration, learning opportunities, and exciting ideas tha
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 
-[![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arshcypherz&theme=transparent)](https://git.io/streak-stats)
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Arsh's GitHub stats"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=arshcypherz&theme=transparent" alt="GitHub Streak"/>
+  </a>
+</div>
 
 
 
