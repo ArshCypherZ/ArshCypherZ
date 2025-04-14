@@ -111,6 +111,9 @@ I'm always open to collaboration, learning opportunities, and exciting ideas tha
 
 
 [![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arshcypherz&theme=transparent)](https://git.io/streak-stats)
+
 
 
 [![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshcypherz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
