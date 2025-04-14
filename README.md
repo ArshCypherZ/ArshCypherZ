@@ -110,15 +110,20 @@ I'm always open to collaboration, learning opportunities, and exciting ideas tha
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Arsh's GitHub stats"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=arshcypherz&theme=transparent" alt="GitHub Streak"/>
-  </a>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Arsh's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=arshcypherz&theme=transparent" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 [![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshcypherz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
