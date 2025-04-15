@@ -117,11 +117,6 @@ I'm always open to collaboration, learning opportunities, and exciting ideas tha
         <img src="https://github-readme-stats.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Arsh's GitHub stats" />
       </a>
     </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=arshcypherz&theme=transparent" alt="GitHub Streak" />
-      </a>
-    </td>
   </tr>
 </table>
 
