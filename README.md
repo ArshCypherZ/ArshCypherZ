@@ -121,4 +121,4 @@ I'm always open to collaboration, learning opportunities, and exciting ideas tha
 </table>
 
 
-[![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshcypherz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arsh's github activity graph](https://github-readme-activity-graph-nu-sandy.vercel.app/graph?username=arshcypherz&theme=react-dark)](https://github.com/arshcypherz)
