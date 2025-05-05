@@ -113,8 +113,8 @@ I'm always open to collaboration, learning opportunities, and exciting ideas tha
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Arsh's GitHub stats" />
+      <a href="https://github.com/arshcypherz">
+        <img src="https://github-readme-stats-neon-chi-24.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Arsh's GitHub stats" />
       </a>
     </td>
   </tr>
