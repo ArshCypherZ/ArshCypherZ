@@ -1,17 +1,17 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=50&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=ARSH+JAVED" alt="Arsh Javed" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=50&duration=1&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=80&lines=ARSH+JAVED" alt="Arsh Javed" />
   
-  <p style="color: #a8a8a8; font-family: sans-serif; font-size: 13px; letter-spacing: 3px;">
+  <p style="font-family: sans-serif; font-size: 13px; letter-spacing: 3px;">
     SOFTWARE ENGINEER &nbsp;|&nbsp; AI RESEARCHER
   </p>
 
   <p>
-    <a href="https://arshcypherz.github.io" style="text-decoration: none; color: #fff; font-weight: bold;">Portfolio</a>
+    <a href="https://arshcypherz.github.io" style="text-decoration: none; font-weight: bold;">Portfolio</a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/arsh-javed" style="text-decoration: none; color: #fff; font-weight: bold;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/arsh-javed" style="text-decoration: none; font-weight: bold;">LinkedIn</a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="mailto:arsh0javed@gmail.com" style="text-decoration: none; color: #fff; font-weight: bold;">Email</a>
+    <a href="mailto:arsh0javed@gmail.com" style="text-decoration: none; font-weight: bold;">Email</a>
   </p>
 
 </div>
@@ -61,7 +61,7 @@ I specialize in **High-Performance AI** and **Backend Architecture**, focusing o
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=22&duration=1&pause=1000&color=888888&center=true&vCenter=true&width=600&height=50&lines=Reach+out+for+collaboration+or+research." alt="Footer Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=22&duration=1&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=50&lines=Reach+out+for+collaboration+or+research." alt="Footer Text" />
 
   <br/>
 
