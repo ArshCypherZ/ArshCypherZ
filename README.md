@@ -1,72 +1,72 @@
 <div align="center">
-  <h1>Arsh Javed</h1>
-  <p>
-    <strong>Software Development Engineer | Open Source Maintainer | AI Researcher</strong>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=50&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=ARSH+JAVED" alt="Arsh Javed" />
+  
+  <p style="color: #a8a8a8; font-family: sans-serif; font-size: 13px; letter-spacing: 3px;">
+    SOFTWARE ENGINEER &nbsp;|&nbsp; AI RESEARCHER
   </p>
 
   <p>
-    <a href="https://arshcypherz.github.io">Portfolio</a> • 
-    <a href="https://www.linkedin.com/in/arsh-javed">LinkedIn</a> • 
-    <a href="mailto:arsh0javed@gmail.com">Email</a>
+    <a href="https://arshcypherz.github.io" style="text-decoration: none; color: #fff; font-weight: bold;">Portfolio</a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/arsh-javed" style="text-decoration: none; color: #fff; font-weight: bold;">LinkedIn</a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="mailto:arsh0javed@gmail.com" style="text-decoration: none; color: #fff; font-weight: bold;">Email</a>
   </p>
+
 </div>
 
-### About Me
+<br />
 
-I am a Computer Science undergraduate (Class of 2027) and the Lead Developer of **Emilia Bot**, a Telegram ecosystem serving over **700,000 users** daily.
+<table>
+  <tr>
+    <td width="60%" valign="center" style="border: none;">
+      
+### About
 
-My work focuses on scalable backend systems and high-performance AI pipelines. Recently, I achieved a **Top 1% Global Rank (600/80,000)** in the Amazon ML Challenge 2025 and won the Encode 2025 Hackathon at IIT Guwahati.
+I'm a **Computer Science Undergraduate (Class of 2027)**.
 
----
+I specialize in **High-Performance AI** and **Backend Architecture**, focusing on building scalable infrastructure and optimizing models for consumer hardware.
 
-### Tech Stack
+   </td>
+    <td width="40%" valign="center" align="center" style="border: none;">
+      <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" width="100%" alt="Coding Cat" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
+<br/>
 
-**AI & Data Science**
+### Toolkit
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Manim](https://img.shields.io/badge/Manim-000000?style=for-the-badge&logo=python&logoColor=white)
+<table width="100%" style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=pytorch,python,cpp,ts,js,fastapi,flask,nodejs,postgres,redis,docker,gcp,git,linux&perline=14&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Backend & Web**
+<br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
+### Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-neon-chi-24.vercel.app/api?username=arshcypherz&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Arsh's GitHub stats" />
-  <br>
-  <img src="https://github-readme-activity-graph-nu-sandy.vercel.app/graph?username=arshcypherz&theme=react-dark" alt="Activity Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshcypherz&theme=solarized_dark" width="100%" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=500&size=22&duration=1&pause=1000&color=888888&center=true&vCenter=true&width=600&height=50&lines=Reach+out+for+collaboration+or+research." alt="Footer Text" />
+
+  <br/>
+
+  <a href="https://buymeacoffee.com/arshcypherz" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+
 </div>
